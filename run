@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat "data/$1_$2.txt" | python3.13 "solutions/$1_$2_$3.py"
