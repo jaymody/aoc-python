@@ -8,6 +8,6 @@ cookie from your browser:
 
 Then, to run a specific day:
 ```sh
-./run 2015 01 1 # 2015, day 1, part 1
-./run 2017 12 2 # 2017, day 12, part 2
+./run 2015 01 part1
+./run 2017 12 part2
 ```
